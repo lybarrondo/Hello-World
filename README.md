@@ -1,2 +1,2 @@
 # Hello-World
-a tutorial file
+##This is a tutorial file for *GitHub*
